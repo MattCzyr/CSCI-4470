@@ -33,8 +33,8 @@ that said, there are many other people in the mix, like the people actually
 pirating the music, that the RIAA had a stronger case against. It seems likely
 that they went after Jesse because he was either the least likely to fight the
 case, or because they didn't understand exactly what he had built and how it
-worked. However, this does not excuse their actions. As absurd as it is, I
-guess we should all consider how we could be liable for how others choose to
+worked. However, this does not excuse their actions. One takeaway from this is
+that we should all consider how we could be liable for how others choose to
 use the infrastructure we build. It's definitely something I will continue to
 think about.
 
