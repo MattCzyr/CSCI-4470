@@ -49,8 +49,8 @@ Screenshot of `gource`:
 RPI Campus Map:  
 - Contributors: 10
 - Lines of code: 37,207
-- First commit: Fri Sep 28 14:26:53 2018
-- Latest commit: Tue Jan 26 22:52:51 2021
+- First commit: September 28, 2018
+- Latest commit: January 26, 2021
 - Branches: master (1 branch)  
 
 ![](gitstats2.png)
@@ -65,5 +65,20 @@ Screenshot of `gource`:
 ![](gource2.png)
 
 
+The Hotbox:
+
+Contributors: 9
+Lines of code: 1,014
+First commit: September 11, 2020
+Latest commit: December 8, 2020
+Branches: 6
+
+![](gitstats3.png)
+
+The `gitstats` page seems to correlate pretty well with my findings, the lines of code is a bit off but I guess that's to be expected.
+
+Screenshot of `gource`:
+
+![](gource3.png)
 
 
