@@ -35,6 +35,8 @@ Shuttle Tracker:
 - [Latest commit](https://github.com/wtg/shuttletracker/commit/3e8b9af6a7d8b341b605f137cf2b4577edd6bed3) on December 4, 2020 by MattCzyr
 - Branches: 55
 
+Screenshot of `gitstats`:
+
 ![](gitstats1.png)
 
 The results of `gitstats` are a bit different than the stats from `git`, but
@@ -52,6 +54,8 @@ RPI Campus Map:
 - First commit: September 28, 2018
 - Latest commit: January 26, 2021
 - Branches: master (1 branch)  
+
+Screenshot of `gitstats`:
 
 ![](gitstats2.png)
 
@@ -73,6 +77,8 @@ First commit: September 11, 2020
 Latest commit: December 8, 2020
 Branches: 6
 
+Screenshot of `gitstats`:
+
 ![](gitstats3.png)
 
 The `gitstats` page seems to correlate pretty well with my findings, the lines of code is a bit off but I guess that's to be expected.
@@ -80,5 +86,22 @@ The `gitstats` page seems to correlate pretty well with my findings, the lines o
 Screenshot of `gource`:
 
 ![](gource3.png)
+
+
+Offcmpus:
+
+- Contributors: 4 contributors
+- Lines of code: 56,895
+- First commit: September 23, 2020
+- Latest commit: December 26, 2020
+- Current branches: 27
+
+Screenshot of `gitstats`:
+
+![](gitstats4.png)
+
+Screenshot of `gource`:
+
+![](gource4.png)
 
 
