@@ -59,10 +59,10 @@ Screenshot of `gitstats`:
 
 ![](gitstats2.png)
 
-After running GitStats, we note a difference in the Contributors, also denoted as *Authors*.  
+After running GitStats, we note a difference in the Contributors, also denoted as Authors.  
 GitStats reports that there are 18 Authors when Git only revealed 10. Further, the Git
-command on line 5 of this document yielded 37207 lines of code in Rpi Campus Map; GitStats
-yielded 21118 lines of code (46245 added, 25127 removed).
+command yielded 37,207 lines of code, while GitStats yielded 21118 lines of code (46245
+added, 25127 removed).
 
 Screenshot of `gource`:
 
@@ -71,11 +71,11 @@ Screenshot of `gource`:
 
 The Hotbox:
 
-Contributors: 9
-Lines of code: 1,014
-First commit: September 11, 2020
-Latest commit: December 8, 2020
-Branches: 6
+- Contributors: 9
+- Lines of code: 1,014
+- First commit: September 11, 2020
+- Latest commit: December 8, 2020
+- Branches: 6
 
 Screenshot of `gitstats`:
 
