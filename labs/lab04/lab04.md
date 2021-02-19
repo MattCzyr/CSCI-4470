@@ -3,7 +3,10 @@
 1. This lab report is licensed under the [Creative Commons Attribution 4.0
 International Public License](https://creativecommons.org/licenses/by/4.0/legalcode).
 
-2. Done
+2. The four essential freedoms are the freedom to run the program for any
+purpose, the freedom to study how the program works and modify it, the
+freedom to redistribute it, and the freedom to distribute modified versions
+of it.
 
 3. Choosing a license is important so that people know how to use your software
 legally. A project is essentially useless to the public without a license, as
