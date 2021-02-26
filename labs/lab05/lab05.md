@@ -4,6 +4,8 @@
 
 ### Step 1:
 
+[Link to code](Part1/Step1)
+
 Running `Tutorial`:
 
 ![](tutorial1.png)
@@ -69,6 +71,8 @@ target_include_directories(Tutorial PUBLIC
 ```
 
 ### Step 2:
+
+[Link to code](Part1/Step2)
 
 Running `Tutorial`:
 
@@ -200,6 +204,8 @@ double mysqrt(double x)
 
 ### Step 3:
 
+[Link to code](Part1/Step3)
+
 Running `Tutorial`:
 
 ![](tutorial3.png)
@@ -252,6 +258,8 @@ target_include_directories(MathFunctions
 ```
 
 ### Step 4:
+
+[Link to code](Part1/Step4)
 
 Partial output of `ctest -VV`:
 
@@ -343,6 +351,8 @@ install(FILES MathFunctions.h DESTINATION include)
 ```
 
 ### Step 5:
+
+[Link to code](Part1/Step5)
 
 Output of `Tutorial`:
 
@@ -451,6 +461,8 @@ install(FILES MathFunctions.h DESTINATION include)
 
 ## Part 2
 
+[Link to code](Part2)
+
 Contents of `Makefile`:
 
 ```
@@ -494,8 +506,8 @@ target_link_libraries(dynamic_block dynamic_lib)
 Size comparison:
 
 ```
--rwxr-xr-x   1 mattczyr  staff  49520 Feb 26 01:13 static_block
--rwxr-xr-x   1 mattczyr  staff  49440 Feb 26 01:13 dynamic_block
+-rwxr-xr-x   1 mattczyr  staff  49520 Feb 26 13:01 static_block
+-rwxr-xr-x   1 mattczyr  staff  49440 Feb 26 13:01 dynamic_block
 ```
 
 The shared executable (49,440 bytes) is just barely smaller than the static executable (49,520 bytes).
